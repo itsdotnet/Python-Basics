@@ -1,0 +1,10 @@
+apple               olma
+hello               salom
+banana              banan
+chair               stul
+chick               jo'ja
+cube                kubik
+orange              apelsin
+phone               telefon
+python              piton
+computer            kompyuter
