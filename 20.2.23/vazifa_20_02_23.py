@@ -73,7 +73,7 @@ class SEARCH(QWidget):
         self.hEditBtnLay = QHBoxLayout()
         self.vMainLay = QVBoxLayout()
 
-        self.EngRadio = QRadioButton("Englsih")
+        self.EngRadio = QRadioButton("English")
         self.EngRadio.setChecked(True)
         self.UzRadio = QRadioButton('Uzbek')
 
